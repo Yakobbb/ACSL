@@ -1,7 +1,6 @@
-# ACSL
-This is my code for ACSL competitions that I've done.
+# ACSL Submissions, 2020-2021
+This is my code for ACSL problems that I've done for competitions.
 
-This code can be used for any purpose whatsoever. That being said, it isn't done very well since I haven't even been programming
-for a full year at the time of making this. The code itself is in python (or java if I am successful in learning it), and I 
-haven't made any edits to them after submitting them. Some of them may also have comments inside of them, so that while writing 
-the code I could stay organized.
+## NOTES
+This code can be used for any purpose whatsoever. That being said, it isn't done very well and can be rather unintuitive. The code itself will be in Python or Java, and I
+haven't made any edits to it after submitting. Some may also have internal comments, which were just used for organization.
